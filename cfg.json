@@ -1,11 +1,11 @@
 {
-    "v": 2,
+    "v": 3,
     "versions":{
         "0": {
             "enabled": false
         },
         "1.0.3": {
-            "enabled": false
+            "enabled": true
         }
     }
 }
