@@ -1,8 +1,8 @@
 {
-    "v": 4,
+    "v": 0,
     "versions":{
         "0": {
-            "enabled": true
+            "enabled": false
         },
         "1.0.3": {
             "enabled": true
