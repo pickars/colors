@@ -2,7 +2,7 @@
     "v": 1,
     "versions":{
         "0": {
-            "enabled": true
+            "enabled": false
         },
         "1.0.3": {
             "enabled": true
